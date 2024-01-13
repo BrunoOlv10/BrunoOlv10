@@ -24,7 +24,7 @@
 <br>
 
 <div align="center"> 
- <h2>📱 Para entrar em contato:</h2>
+ <h3>📱 Para entrar em contato:</h3>
 </div>
 
  <div align="center"> 
