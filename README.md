@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+<h1>## Bem-vindo(a) ao meu perfil 😁</h1>
 
  <div align="center">
   <a href="https://github.com/BrunoOlv10">
@@ -9,7 +9,7 @@
  
  ##
  
- ### 🧙🏼 Habilidades: 
+ <h2>### 🧙🏼 Habilidades:</h2> 
 <div style="display: inline_block;"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -17,15 +17,14 @@
 </div>
  <br>
  
-  ### 📚 Aprendendo: 
+  <h2>### 📚 Aprendendo:</h2> 
 <div style="display: inline_block;"><br>
   <img align="center" alt="Js"946661 height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 <br>
- 
-  ### 📱 Para entrar em contato:
- 
-<div align="center"> 
+
+ <div align="center"> 
+  <h2>### 📱 Para entrar em contato:</h2>
   <a href="bruno.olvslv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-oliveira-681437278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
