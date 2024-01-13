@@ -23,9 +23,7 @@
 </div>
 <br>
 
-<div align="center"> 
  <h3>📱 Para entrar em contato:</h3>
-</div>
 
  <div align="center"> 
   <a href="bruno.olvslv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
