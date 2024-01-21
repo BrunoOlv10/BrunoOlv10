@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem-+vindo(a)+ao+meu+perfil;Sou+o+Bruno+Oliveira;Tenho+19+anos;Concluído+Desenvolvimento+de+Sistemas+na+ETEC)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem-+vindo(a)+ao+meu+perfil;Sou+o+Bruno+Oliveira;Tenho+19+anos;Concluído+Desenvolvimento+de+Sistemas+na+ETEC)
 
   <div align="center">  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoOlv10&theme=jolly&show_icons=true&hide_border=true&layout=compact" /><br>
