@@ -1,8 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem-+vindo(a)+ao+meu+perfil;Sou+o+Bruno+Oliveira;Tenho+19+anos;Concluído+Desenvolvimento+de+Sistemas+na+ETEC)
 
   <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoOlv10&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=4B0082&text_color=4B0082&bg_color=696969" alt="Bruno Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoOlv10&layout=compact&hide_border=true&title_color=4B0082&text_color=4B0082&bg_color=696969" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoOlv10&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=4B0082&text_color=4B0082&bg_color=A9A9A9" alt="Bruno Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoOlv10&layout=compact&hide_border=true&title_color=4B0082&text_color=4B0082&bg_color=A9A9A9" />
 </div>
  
  ##
