@@ -5,7 +5,7 @@
   <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoOlv10&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=4B0082&text_color=4B0082&bg_color=B0C4DE" alt="Bruno Oliveira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoOlv10&layout=compact&hide_border=true&title_color=4B0082&text_color=4B0082&bg_color=B0C4DE" />
-  <img width="41%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoOlv10&theme=purple"/>
+  <img width="41%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoOlv10&title_color=4B0082&text_color=4B0082&bg_color=B0C4DE""/>
 </div>
  
  ##
