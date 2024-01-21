@@ -15,7 +15,7 @@
 </div>
  <br>
  
-  <div align="center">📚 Aprendendo</div> 
+  <h3 align="center">📚 Aprendendo</h3> 
 <div align="center" style="display: inline_block;"><br>
   <img align="center" alt="Js"946661 height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
