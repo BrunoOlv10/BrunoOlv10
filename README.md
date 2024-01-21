@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao meu perfil 😁
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem-+vindo(a)+ao+meu+perfil;Sou+o+Bruno+Oliveira;Tenho+19+anos;Concluído+Desenvolvimento+de+Sistemas+na+ETEC+:%60)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem-+vindo(a)+ao+meu+perfil;Sou+o+Bruno+Oliveira;Tenho+19+anos;Concluído+Desenvolvimento+de+Sistemas+na+ETEC)
 
  <div align="center">
   <a href="https://github.com/BrunoOlv10">
