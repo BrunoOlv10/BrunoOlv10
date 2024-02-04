@@ -17,7 +17,7 @@
 </div>
  <br>
  
-  <h3 align="center">📚 Conhecimento básico</h3> 
+  <h3 align="center">📚 Conhecimento Básico</h3> 
 <div align="center" style="display: inline_block;"><br>
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
