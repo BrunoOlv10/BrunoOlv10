@@ -4,7 +4,7 @@
 
 <div align="center" style="margin-bottom:100px">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunoolv10&theme=radical&mode=weekly" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=brunoolv10&theme=radical&layout=compact>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=brunoolv10&theme=radical>
  </div>
 
 ## Habilidades
