@@ -4,7 +4,7 @@
 
 <div  align="center" style="margin-bottom:100px">
     <img width=55% align="center" src="github-readme-stats-brunoolv10.vercel.app?user=kyronsatt&theme=radical&mode=weekly" />
-    <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+    <img width=40% align="center" src="github-readme-stats-brunoolv10.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
 </div>
 
 ## Habilidades
