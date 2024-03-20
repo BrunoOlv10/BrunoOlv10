@@ -7,7 +7,7 @@
 ## Habilidades
  
  
-  <div>Principais Habilidades:</div>
+  <div style="margin-bottom:30px">Principais Habilidades:</div>
   <div style="margin-bottom:30px">
      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -18,7 +18,7 @@
 
  
  
-  <div>Conhecimento Básico:</div>
+  <div style="margin-bottom:30px">Conhecimento Básico:</div>
   <div style="margin-bottom:30px">
      <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
      <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
