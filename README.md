@@ -1,4 +1,7 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem-+vindo(a)+ao+meu+perfil;Sou+o+Bruno+Oliveira;Tenho+19+anos;Concluído+Desenvolvimento+de+Sistemas+na+ETEC)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem-+vindo(a)+ao+meu+perfil;Sou+o+Bruno+Oliveira;Tenho+19+anos;Concluído+Desenvolvimento+de+Sistemas+na+ETEC) 
+
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/BrunoOlv10/BrunoOlv10/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+&nbsp;&nbsp;&nbsp;
 
   <div align="center">  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoOlv10&theme=jolly&show_icons=true&hide_border=true&layout=compact" /><br>
