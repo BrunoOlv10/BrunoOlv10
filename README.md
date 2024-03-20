@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem-+vindo(a)+ao+meu+perfil) 
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/BrunoOlv10/BrunoOlv10/github-header-image.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/BrunoOlv10/BrunoOlv10/assets/github-header-image.png" />
 &nbsp;&nbsp;&nbsp;
 
   <div align="center">  
