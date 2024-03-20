@@ -3,7 +3,7 @@
 <img align="center" width=100% src="https://github.com/BrunoOlv10/BrunoOlv10/assets/91139220/dd8fb769-546b-4438-9d8a-142dbf605b84"><br><br>
 
 <div align="center">
-    <img width=55% align="center" src="https://streak-stats.demolab.com?user=BrunoOlv10&theme=radical" />
+    <img width=50% align="center" src="https://streak-stats.demolab.com?user=BrunoOlv10&theme=radical" />
     <img align="center" src="https://github-readme-stats-brunoolv10.vercel.app/api/top-langs/?username=brunoolv10&theme=synthwave&mode=weekly&layout=compact" />
  </div>
 
