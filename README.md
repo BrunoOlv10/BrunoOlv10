@@ -4,7 +4,7 @@
 
 <div align="center">
     <img align="center" src="https://github-readme-stats-brunoolv10.vercel.app/api/top-langs/?username=brunoolv10&theme=synthwave&mode=weekly&layout=compact" />
-
+    <img align="center" src="https://streak-stats.demolab.com?user=BrunoOlv10&theme=radical" />
  </div>
 
 ## Habilidades
