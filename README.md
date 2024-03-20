@@ -2,7 +2,7 @@
 
 <img align="center" width=100% src="https://github.com/BrunoOlv10/BrunoOlv10/assets/91139220/dd8fb769-546b-4438-9d8a-142dbf605b84">
 
-<div align="center" style="margin-bottom:100px">
+<div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunoolv10&theme=radical&mode=weekly" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=brunoolv10>
  </div>
