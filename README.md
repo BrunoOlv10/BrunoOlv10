@@ -2,10 +2,7 @@
 
 <img align="center" width=100% src="https://github.com/BrunoOlv10/BrunoOlv10/assets/91139220/dd8fb769-546b-4438-9d8a-142dbf605b84">
 
-  <div align="center">  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoOlv10&theme=jolly&show_icons=true&hide_border=true&layout=compact" /><br>
-    <img src="https://streak-stats.demolab.com?user=BrunoOlv10&theme=jolly&hide_border=true" />
-</div>
+ 
 
  <h3 align="center">Habilidades</h3>
  ##
