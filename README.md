@@ -7,7 +7,7 @@
 ## Habilidades
  
  
-  <div style="margin-bottom:30px">Principais Habilidades:</div>
+  <div style="margin-top:30px">Principais Habilidades:</div>
   <div>
      <img style="margin-bottom:50px" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img style="margin-bottom:50px" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
