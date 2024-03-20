@@ -18,8 +18,8 @@
 
  
  
-  <div style="margin-bottom:30px">Conhecimento Básico:</div>
-  <div style="margin-bottom:30px">
+  <p>Conhecimento Básico:</p>
+  <div>
      <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
      <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
      <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
