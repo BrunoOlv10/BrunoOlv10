@@ -8,7 +8,6 @@
  </div>
 
 ## Habilidades
- 
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
  
   <p>Principais Habilidades:</p>
