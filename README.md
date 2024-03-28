@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+bem-vindo(a)+ao+meu+perfil!) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=yellow&size=35&center=true&vCenter=true&width=1000&lines=Olá,+bem-vindo(a)+ao+meu+perfil!) 
 
 <img align="center" width=100% src='https://github.com/BrunoOlv10/BrunoOlv10/assets/91139220/1b845738-a7d8-4b92-a380-819f851555f3'><br><br>
 
