@@ -1,5 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7D747&size=35&center=true&vCenter=true&width=1000&lines=Olá,+bem-vindo(a)+ao+meu+perfil!) 
-
 <img align="center" width=100% src='https://github.com/BrunoOlv10/BrunoOlv10/assets/91139220/ed71e3b3-dd75-4f7b-b460-9ff664d73c9f'><br><br>
 
 <div align="center">
