@@ -1,8 +1,8 @@
 <img align="center" width=100% src='https://github.com/BrunoOlv10/BrunoOlv10/assets/91139220/ed71e3b3-dd75-4f7b-b460-9ff664d73c9f'><br><br>
 
 <div align="center">
-    <img align="center" src="https://streak-stats.demolab.com?user=BrunoOlv10&theme=radical" />
-    <img align="center" src="https://github-readme-stats-brunoolv10.vercel.app/api/top-langs/?username=brunoolv10&theme=radical&mode=weekly&layout=compact" />
+    <img width=50% align="center" src="https://streak-stats.demolab.com?user=BrunoOlv10&theme=radical" />
+    <img width=50% align="center" src="https://github-readme-stats-brunoolv10.vercel.app/api/top-langs/?username=brunoolv10&theme=radical&mode=weekly&layout=compact" />
  </div>
 
 ## Habilidades
