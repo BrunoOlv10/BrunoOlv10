@@ -2,7 +2,6 @@
 
 <div align="center">
     <img width="420px" align="center"src="https://streak-stats.demolab.com?user=BrunoOlv10&theme=radical" />
-    <br>
     <img width="300px" align="center" src="https://github-readme-stats-brunoolv10.vercel.app/api/top-langs/?username=brunoolv10&theme=radical&mode=weekly&layout=compact" />
  </div>
 
