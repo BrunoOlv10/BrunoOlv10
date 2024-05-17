@@ -1,7 +1,7 @@
 <img align="center" width=100% src='https://github.com/BrunoOlv10/BrunoOlv10/assets/91139220/ed71e3b3-dd75-4f7b-b460-9ff664d73c9f'><br><br>
 
 <div align="center">
-    <img width="420px" align="center"src="https://streak-stats.demolab.com?user=BrunoOlv10&theme=radical" />
+    <img width="420px" align="center" src="https://streak-stats.demolab.com?user=BrunoOlv10&theme=radical" />
     <img width="300px" align="center" src="https://github-readme-stats-brunoolv10.vercel.app/api/top-langs/?username=brunoolv10&theme=radical&mode=weekly&layout=compact" />
  </div>
 
@@ -28,7 +28,7 @@
      <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
      <img alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
      <img alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-     <img alt="Arduíno" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+     <img alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
      <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
      <img alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
      <img alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
