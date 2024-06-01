@@ -1,4 +1,4 @@
-<img align="center" width=100% src='https://github.com/BrunoOlv10/BrunoOlv10/assets/91139220/ed71e3b3-dd75-4f7b-b460-9ff664d73c9f'><br><br>
+<img align="center" width=100% src='https://github.com/BrunoOlv10/BrunoOlv10/assets/91139220/ed71e3b3-dd75-4f7b-b460-9ff664d73c9f'><br>
 
 <div align="center">
     <img width="420px" align="center" src="https://streak-stats.demolab.com?user=BrunoOlv10&theme=radical" />
